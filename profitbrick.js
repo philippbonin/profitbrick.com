@@ -22,7 +22,7 @@ window.addEventListener("load", function () {
         cookie: {
             "name": "profitbrickDeCookie",
             "path": "/",
-            "domain": "profitbrick.de"
+            "domain": "profitbrick.com"
         },
         animateRevokable: false,
         onRevokeChoice: function () {
